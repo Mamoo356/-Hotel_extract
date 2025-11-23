@@ -1,0 +1,22 @@
+transformers>=4.34.0
+accelerate>=0.21.0
+peft>=0.4.0
+torch>=2.0.0 # if using CUDA build; for CPU-only machines use cpu build
+sentencepiece
+streamlit
+pythainlp
+dateparser
+rapidfuzz
+python-dotenv
+uvicorn
+pydantic
+regex
+
+
+tqdm
+
+
+aiohttp
+
+
+overrides
